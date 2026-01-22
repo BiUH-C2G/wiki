@@ -13,10 +13,13 @@ M 投影，N 大地图，Y 路径点，J 周期性攻击，K 周期性使用，Z
 
 假人使用见 [](https://www.bilibili.com/video/BV1zt4y1T7Co)
 
-
 ## 在线 3D 地图
 
 <iframe src="https://maps.leak.moe" width="100%" height="500px" title="在线 3D 地图"></iframe>
+
+## 资源下载
+
+<iframe src="https://download.leak.moe/share/69723aec208fb/" width="100%" height="500px" title="在线 3D 地图"></iframe>
 
 ## 加入方式
 
