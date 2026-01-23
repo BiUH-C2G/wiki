@@ -10,7 +10,8 @@ TBD.
 
 ## 体育部
 
-<img src="photos/sports.jpg" width="80%"/>
+<img src="photos/sports-football.jpg" width="80%"/>
+<img src="photos/sports-basketball.jpg" width="80%"/>
 
 ## 文艺部
 

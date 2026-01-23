@@ -4,7 +4,7 @@ theme: material
 nav:
   - 首页: index.md
   - 常见问题汇总: faq.md
-  - 住宿: dorm.md
+  - 住宿: dorm/index.md
   - 学生组织:
     - 学生会: organizations/students-union/index.md
     - 社团: organizations/club/index.md
