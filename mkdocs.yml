@@ -3,8 +3,12 @@ theme: material
 
 nav:
   - 首页: index.md
-  - 常见问题汇总: faq.md
+  - 常见问题汇总: faq/index.md
   - 住宿: dorm/index.md
+  - 学业:
+    - 提问的智慧: academic/smart-questions/index.md
+    - 校历: academic/timetable/index.md
+    - 留学: academic/go-abroad/index.md
   - 学生组织:
     - 学生会: organizations/students-union/index.md
     - 社团: organizations/club/index.md
