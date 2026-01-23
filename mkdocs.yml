@@ -5,8 +5,10 @@ nav:
   - 首页: index.md
   - 常见问题汇总: faq.md
   - 住宿: dorm.md
-  - 社团: clubs/clubs.md
+  - 学生组织:
+    - 学生会: organizations/students-union/index.md
+    - 社团: organizations/club/index.md
   - 娱乐:
-    - Minecraft 社区服: funs/minecraft.md
+    - Minecraft 社区服: play/minecraft.md
   - 交通:
     - 校园出行: transportation/campus.md
