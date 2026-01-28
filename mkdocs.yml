@@ -1,6 +1,17 @@
 site_name: BiUH Wiki
-theme: material
+theme:
+  name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
 
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 nav:
   - 首页: index.md
   - 常见问题汇总: faq/index.md
@@ -16,3 +27,16 @@ nav:
     - Minecraft 社区服: play/minecraft.md
   - 交通:
     - 校园出行: transportation/campus.md
+
+plugins:
+  - search
+  - glightbox:
+      auto_caption: false
+
+markdown_extensions:
+  - pymdownx.blocks.caption
+  - attr_list
+  - md_in_html
+
+extra:
+  generator: false

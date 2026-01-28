@@ -12,9 +12,15 @@
 
 ## 前往文化广场
 
-<img src="../photos/culture-center.jpg" width="75%"/>
+![文化广场](photos/culture-center.jpg){ width="75%" }
+/// caption
+文化广场
+///
 
-<img src="../photos/supermarket.jpg" width="75%"/>
+![超市](photos/supermarket.jpg){ width="75%" }
+///caption
+超市
+///
 
 开电动车前往或乘坐15路公交，约 20 分钟。
 
@@ -22,9 +28,15 @@
 
 ## 前往幸福城夜市
 
-<img src="../photos/chagee.jpg" width="60%"/>
+![霸王茶姬](photos/chagee.jpg){ width="60%" }
+///caption
+霸王茶姬
+///
 
-<img src="../photos/night-market.jpg" width="60%"/>
+![夜市](photos/night-market.jpg){ width="60%" }
+///caption
+夜市
+///
 
 可通过校内的可租借小电驴前往，也可以步行前往。小电驴大概 10 分钟到达，步行大概 40 分钟。
 

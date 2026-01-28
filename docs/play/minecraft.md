@@ -1,6 +1,9 @@
 # Minecraft 服务器
 
 ![screenshot](minecraft-screenshot.jpg)
+///caption
+由 Kirin_Nao 学长造的蜂蜜机
+///
 
 目前有一个由学生自建的 Minecraft 1.21.11 原版生存服务器，目前活跃人员有 5 人左右。
 群内有装好常用生电模组的整合包。
@@ -9,15 +12,15 @@
 
 M 投影，N 大地图，Y 路径点，J 周期性攻击，K 周期性使用，Z 开关光影，V 开麦，U 灵魂出窍，R 整理背包/箱子，H 开关 minihud，X+C Tweakeroo，H+C MiniHUD，按住shift全丢，按住 alt 左键放同类物品。shift 背包内预览潜影盒，alt 预览被放下的箱子/潜影盒。
 
-批量合成/交易见（ItemScroller） [Here](https://www.bilibili.com/opus/950691633772363800)
+[批量合成/交易（ItemScroller）](https://www.bilibili.com/opus/950691633772363800)
 
-假人使用见（Carpet） [Here](https://www.bilibili.com/video/BV1zt4y1T7Co)
+[假人使用（Carpet）](https://www.bilibili.com/video/BV1zt4y1T7Co)
 
 ## 镜像服跨服
 
 服务器配置了 velocity，可以在生电服和镜像服之间切换。`/server survial` 来切换到生电服；`/server creative` 来切换到镜像服。
 
-其中镜像服是有所有权限的（例如 /fill /gamemode），可以进行红石机器的测试。镜像服没有在线 3D 地图。
+其中镜像服玩家是拥有所有命令权限的（例如 `/fill` `/gamemode`），可以进行红石机器的测试。镜像服没有在线 3D 地图。
 
 ⚠️ 生电服的地图会定期同步到镜像服，也就是说镜像服里面的东西会被重置掉，建议镜像服只用来测试红石机器或特性。
 
