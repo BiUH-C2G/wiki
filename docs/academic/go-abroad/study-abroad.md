@@ -85,7 +85,7 @@ APS 面试简单说就是用德语讲你专业课学过的东西回答问题，�
 
 ### GPA 计算
 
-<div id="container" style="width: 800px; overflow: hidden;">
+<div id="container" style="width="500px" height="800px"; overflow: hidden;">
   <iframe id="myIframe" src="https://calculator.leak.moe" style="border: none;"></iframe>
 </div>
 
@@ -109,6 +109,7 @@ APS 面试简单说就是用德语讲你专业课学过的东西回答问题，�
   window.addEventListener('resize', autoScaleIframe);
 </script>
 
+如果显示不正常，你可以点击[这里](https://calculator.leak.moe)直接打开网页。⚠️不用担心计算器会窃取你的成绩，计算器是部署在 GitHub 上的并且[开源](https://github.com/BiUH-C2G/biuh-score-calculator)在 GitHub 因此完全安全可信。实在不行你可以自己部署。
 
 ### 申请德国
 
