@@ -1,4 +1,4 @@
-site_name: BiUH Wiki
+site_name: 比科大生存指南
 theme:
   name: material
   palette:
@@ -19,7 +19,10 @@ nav:
   - 学业:
     - 提问的智慧: academic/smart-questions/index.md
     - 校历: academic/timetable/index.md
-    - 留学: academic/go-abroad/index.md
+    - 出国:
+      - 留学: academic/go-abroad/study-abroad.md
+      - 志愿者: academic/go-abroad/volunteer.md
+      - 冬夏校: academic/go-abroad/winter-summer-school.md
   - 学生组织:
     - 学生会: organizations/students-union/index.md
     - 社团: organizations/club/index.md
@@ -37,6 +40,13 @@ markdown_extensions:
   - pymdownx.blocks.caption
   - attr_list
   - md_in_html
+
+extra_javascript:
+  - https://unpkg.com/beautiful-mermaid/dist/beautiful-mermaid.browser.global.js
+  - js/render_mermaid.js
+
+extra_css:
+  - css/mermaid.css
 
 extra:
   generator: false
