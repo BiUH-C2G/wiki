@@ -85,7 +85,30 @@ APS 面试简单说就是用德语讲你专业课学过的东西回答问题，�
 
 ### GPA 计算
 
-TBD.
+<div id="container" style="width: 800px; overflow: hidden;">
+  <iframe id="myIframe" src="https://calculator.leak.moe" style="border: none;"></iframe>
+</div>
+
+<script>
+  function autoScaleIframe() {
+    const container = document.getElementById('container');
+    const iframe = document.getElementById('myIframe');
+    const virtualWidth = 1200; 
+    const virtualHeight = 800;
+    const containerWidth = container.offsetWidth;
+    const scale = containerWidth / virtualWidth;
+
+    iframe.style.width = virtualWidth + 'px';
+    iframe.style.height = virtualHeight + 'px';
+    iframe.style.transform = `scale(${scale})`;
+    iframe.style.transformOrigin = '0 0';
+
+    container.style.height = (virtualHeight * scale) + 'px';
+  }
+  window.addEventListener('load', autoScaleIframe);
+  window.addEventListener('resize', autoScaleIframe);
+</script>
+
 
 ### 申请德国
 
