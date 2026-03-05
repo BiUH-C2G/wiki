@@ -15,6 +15,17 @@ M 投影，N 大地图，Y 路径点，J 周期性攻击，K 周期性使用，Z
 
 [假人使用（Carpet）](https://www.bilibili.com/video/BV1zt4y1T7Co)
 
+## Carpet 配置
+
+```
+openFakePlayerInventory true
+commandPlayer 0
+fakePlayerResident true
+xpNoCooldown true
+language zh_cn
+commandTick 0
+```
+
 ## 镜像服跨服
 
 服务器配置了 velocity，可以在生电服和镜像服之间切换。`/server survial` 来切换到生电服；`/server creative` 来切换到镜像服。
@@ -22,6 +33,10 @@ M 投影，N 大地图，Y 路径点，J 周期性攻击，K 周期性使用，Z
 其中镜像服玩家是拥有所有命令权限的（例如 `/fill` `/gamemode`），可以进行红石机器的测试。镜像服没有在线 3D 地图。
 
 ⚠️ 生电服的地图会定期同步到镜像服，也就是说镜像服里面的东西会被重置掉，建议镜像服只用来测试红石机器或特性。
+
+## 连麦
+
+KOOK 邀请[链接](https://kook.vip/ulPmC1)
 
 ## 基岩版互通
 
