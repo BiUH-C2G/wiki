@@ -1,4 +1,5 @@
 site_name: 比科大生存指南
+site_url: https://wiki.leak.moe/
 theme:
   name: material
   palette:
