@@ -1,0 +1,15 @@
+{
+  "name": "wiki",
+  "compatibility_date": "2026-06-30",
+  "routes": [
+    {
+      "pattern": "wiki.leak.moe",
+      "custom_domain": true
+    }
+  ],
+  "assets": {
+    "directory": "./result",
+    "not_found_handling": "404-page",
+    "html_handling": "auto-trailing-slash"
+  }
+}
